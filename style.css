@@ -1,0 +1,10 @@
+aside {
+  background-color: #09b69c;
+  color: white;
+  /* height: 100vh; */
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+}
